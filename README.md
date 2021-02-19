@@ -1,1 +1,1 @@
-#  check out my blog at Nirbhay007.github.io made with gatsbyjs
+##  check out my blog at [Nirbhay007.github.io] made with GatsbyJS.
